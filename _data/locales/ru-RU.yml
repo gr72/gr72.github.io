@@ -10,11 +10,11 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Домашняя страница
+  home: Главная
   categories: Категории
   tags: Теги
-  archives: Архив
-  about: О сайте
+  archives: История
+  about: Связаться
 
 # the text displayed in the search bar & search results
 search:
